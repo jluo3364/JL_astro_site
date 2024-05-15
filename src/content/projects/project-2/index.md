@@ -1,15 +1,23 @@
 ---
-title: "Project Two"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 17 2022"
-draft: true
+title: "BuyMe"
+summary: "auction website with advanced user features"
+date: "May 5 2024"
+draft: false
 tags:
-- Svelte
-- Sveltekit
-- Typescript
-- Tailwind
+- Java
+- MySQL
+- JSP
+- Java servlet
+- HTML
+- CSS
+demoUrl: https://drive.google.com/file/d/1kmE1W_NsloKRf6PZpsxzAgTa_20geKXm/view?usp=sharing
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+As a team of four, we developed a comprehensive online auction platform with three core functionalities:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+I. Auctions Management: Sellers can create auctions and list items for sale, setting various parameters such as item characteristics, closing date, and a hidden minimum price. Buyers can bid on items, with options for manual or automatic bidding. The system alerts users of higher bids and determines the auction winner based on set criteria, considering reserve prices if applicable.
+
+II. Browsing and Advanced Search: Users can browse items, view current bidding status, and sort/search by different criteria. Additionally, they can access bid history, view auctions participated in by specific users, and receive alerts for items of interest. The platform also offers browsing of past auctions and relevant information.
+
+III. Admin and Customer Support: Administrators have control over user accounts and generate sales reports, while customer representatives handle user inquiries, manage account information, and oversee auction activities.
