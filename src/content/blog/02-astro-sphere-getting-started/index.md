@@ -31,7 +31,7 @@ export default defineConfig({
 export const SITE: Site = {
   TITLE: "Astro Sphere",
   DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
+  AUTHOR: "Jessica Luo",
 }
 ```
 
@@ -76,8 +76,8 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "jluo3364",
+    HREF: "https://github.com/jluo3364"
   },
 ]
 ```
