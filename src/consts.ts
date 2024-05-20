@@ -71,11 +71,11 @@ export const SOCIALS: Socials = [
     TEXT: "jessica-luo336",
     HREF: "https://www.linkedin.com/in/jessica-luo336/",
   },
-  { 
-    NAME: "Instagram",
-    ICON: "twitter-x",
-    TEXT: "jluo340",
-    HREF: "https://instagram.com/jluo340",
-  },
+  // { 
+  //   NAME: "Instagram",
+  //   ICON: "instagram",
+  //   TEXT: "jluo340",
+  //   HREF: "https://instagram.com/jluo340",
+  // },
 ]
 
