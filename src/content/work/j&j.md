@@ -1,8 +1,8 @@
 ---
-company: "Janssen R&D | Pharmecutical Companies of Johnson & Johnson "
+company: "Johnson & Johnson Innovative Medicine"
 role: "Integrated Data Analytics & Reporting Intern"
 dateStart: "06/03/2024"
 dateEnd: "Now"
 ---
-- Plan, design, and develop statistical programs in Python / R to analyze and report clinical trial data 
-- Develop R Shiny apps for the Clinical and Statistical Programming group within IDAR
+- Leverage Neo4j graph databases and LangChain to build an AI assistant for resource retrieval on a central platform
+- Develop an R shiny application to facilitate exploratory data analytics for an oncology study
